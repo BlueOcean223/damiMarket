@@ -1,1 +1,3 @@
-基于vue3，springboot框架开发的前后端分离项目
+# damiMarket
+
+期末项目，大米商城。基于Spring Boot+Vue3构建
